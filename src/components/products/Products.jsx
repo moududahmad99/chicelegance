@@ -20,23 +20,23 @@ const Products = () => {
             <div className="products-tabs">
               <TabList className='flex flex-wrap my-10 justify-evenly items-center'>
                 <Tab>
-                  <h3 className='font-semibold uppercase'>Foods & Drinks</h3>
+                  <h3 className='font-semibold uppercase'>Footwear Store</h3>
                   <span></span>
                 </Tab>
                 <Tab>
-                  <h3 className='font-semibold uppercase'>Vegetables</h3>
+                  <h3 className='font-semibold uppercase'>Shoe Boutique</h3>
                   <span></span>
                 </Tab>
                 <Tab>
-                  <h3 className='font-semibold uppercase'>Dried Food</h3>
+                  <h3 className='font-semibold uppercase'>Style Gallery</h3>
                   <span></span>
                 </Tab>
                 <Tab>
-                  <h3 className='font-semibold uppercase'>Bread & Cake</h3>
+                  <h3 className='font-semibold uppercase'>Brand Outlet</h3>
                   <span></span>
                 </Tab>
                 <Tab>
-                  <h3 className='font-semibold uppercase'>Fish & Meat</h3>
+                  <h3 className='font-semibold uppercase'>Sneaker Central</h3>
                 </Tab>
               </TabList>
             </div>
@@ -60,7 +60,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>High-Top Canvas Sneakers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -96,7 +96,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Black Leather Loafers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -134,7 +134,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Canvas Espadrille Flats</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -170,7 +170,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Classic Penny Loafers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -210,7 +210,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Sporty Running Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -246,7 +246,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Winter Snow Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -284,7 +284,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Suede Chelsea Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -320,7 +320,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Platform Sneaker Styles</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -362,7 +362,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Comfort Slipper Selection</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -398,7 +398,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Outdoor Trail Hikers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -436,7 +436,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Fashionable Wedge Sandals</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -472,7 +472,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Sleek Derby Oxfords</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -512,7 +512,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Walking Shoe Varieties</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -548,7 +548,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Stylish Ankle Booties</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -586,7 +586,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Designer Heeled Pumps</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -622,7 +622,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Rugged Work Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -664,7 +664,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Canvas Boat Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -700,7 +700,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Luxe Leather Brogues</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -738,7 +738,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Trendy Platform Sneakers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -774,7 +774,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Cozy Fleece Slippers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -814,7 +814,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Trail Running Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -850,7 +850,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Western Cowboy Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -888,7 +888,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Summer Flip-Flop Styles</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -924,7 +924,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Beach Sandal Collection</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -966,7 +966,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Waterproof Hiking Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1002,7 +1002,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Waterproof Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1040,7 +1040,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Trail Running Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1076,7 +1076,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Cozy Fleece Slippers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1116,7 +1116,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Luxe Leather Brogues</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1152,7 +1152,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Brown Leather Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1190,7 +1190,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Casual Slip-On Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1226,7 +1226,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Training Sneakers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1268,7 +1268,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Formal Dress Shoes</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1304,7 +1304,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Hiking Boot Series</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1342,7 +1342,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Canvas Espadrille Flats</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1378,7 +1378,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Black Leather Loafers</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1418,7 +1418,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Winter Snow Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1454,7 +1454,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Suede Chelsea Boots</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1492,7 +1492,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Platform Sneaker Styles</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">
@@ -1528,7 +1528,7 @@ const Products = () => {
                             <i><BiSolidStarHalf /></i>
                             <i><AiOutlineStar /></i>
                           </div>
-                          <h4 className='font-semibold text-lg pl-5 py-1'>Fresh Butter Cake</h4>
+                          <h4 className='font-semibold text-lg pl-5 py-1'>Sneaker Styles</h4>
                           <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                         </div>
                         <div className="products-hoverIcons">

@@ -51,9 +51,9 @@ const Testimonials = () => {
             <div className='testimonials-card--inner flex'>
               <img src="/assets/1.jpg" alt="testimonials" />
               <div className='text-start px-4 testiCardRes'>
-                <p className='font-normal text-md'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis molestiae rerum eaque adipisicing elit. Quis molestiae rerum eaque veniam, optio ipsam.</p>
+                <p className='font-normal text-md'>ChicElegance delivers happiness through outstanding quality, chic style, and excellent customer service.</p>
                 <h4 className='font-bold text-xl my-2'>Rosaline D. William</h4>
-                <h5 className='font-semibold'>Founder</h5>
+                <h5 className='font-semibold'>Co-Founder</h5>
               </div>
               <i className='text-7xl'><FaComments /></i>
             </div>
@@ -62,8 +62,8 @@ const Testimonials = () => {
             <div className='testimonials-card--inner flex'>
               <img src="/assets/5.jpg" alt="testimonials" />
               <div className='text-start px-4 testiCardRes'>
-                <p className='font-normal text-md'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis molestiae rerum eaque adipisicing elit. Quis molestiae rerum eaque veniam, optio ipsam.</p>
-                <h4 className='font-bold text-xl my-2'>Rosaline D. William</h4>
+                <p className='font-normal text-md'>ChicElegance brings outstanding style to every purchase. Quality shoes, chic designs, and exceptional service</p>
+                <h4 className='font-bold text-xl my-2'>Lisa Rodriguez</h4>
                 <h5 className='font-semibold'>Founder</h5>
               </div>
               <i className='text-7xl'><FaComments /></i>
@@ -73,9 +73,9 @@ const Testimonials = () => {
             <div className='testimonials-card--inner flex'>
               <img src="/assets/6.jpg" alt="testimonials" />
               <div className='text-start px-4 testiCardRes'>
-                <p className='font-normal text-md'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis molestiae rerum eaque adipisicing elit. Quis molestiae rerum eaque veniam, optio ipsam.</p>
-                <h4 className='font-bold text-xl my-2'>Rosaline D. William</h4>
-                <h5 className='font-semibold'>Founder</h5>
+                <p className='font-normal text-md'>From ChicElegance, I found happiness in outstanding shoes. Superior quality, chic style, and excellent service.</p>
+                <h4 className='font-bold text-xl my-2'>David Parker</h4>
+                <h5 className='font-semibold'>Head of Design</h5>
               </div>
               <i className='text-7xl'><FaComments /></i>
             </div>
@@ -84,9 +84,9 @@ const Testimonials = () => {
             <div className='testimonials-card--inner flex'>
               <img src="/assets/7.jpg" alt="testimonials" />
               <div className='text-start px-4 testiCardRes'>
-                <p className='font-normal text-md'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis molestiae rerum eaque adipisicing elit. Quis molestiae rerum eaque veniam, optio ipsam.</p>
-                <h4 className='font-bold text-xl my-2'>Rosaline D. William</h4>
-                <h5 className='font-semibold'>Founder</h5>
+                <p className='font-normal text-md'>Outstanding quality, chic style, and excellent service define ChicElegance. I'm truly happy with my purchase.</p>
+                <h4 className='font-bold text-xl my-2'>John Anderson</h4>
+                <h5 className='font-semibold'>Director of Operations</h5>
               </div>
               <i className='text-7xl'><FaComments /></i>
             </div>

@@ -4,7 +4,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import './Banner.css';
 
-import { GiShinyApple } from 'react-icons/gi'
+import { GiConverseShoe } from 'react-icons/gi'
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 
 import { motion } from 'framer-motion';
@@ -53,7 +53,7 @@ const Banner = () => {
                     transition={{ duration: 1 }}
                   >
                     <div className='flex items-center'>
-                      <i className='pr-3'><GiShinyApple /></i>
+                      <i className='pr-3'><GiConverseShoe /></i>
                       <h5 className='font-semibold'>Sustainable Style Solutions</h5>
                     </div>
                   </motion.div>
@@ -92,7 +92,7 @@ const Banner = () => {
                     transition={{ duration: 1 }}
                   >
                     <div className='flex justify-end'>
-                      <i className='pr-3'><GiShinyApple /></i>
+                      <i className='pr-3'><GiConverseShoe /></i>
                       <h5 className='font-semibold'>100% Genuine Products</h5>
                     </div>
                   </motion.div>

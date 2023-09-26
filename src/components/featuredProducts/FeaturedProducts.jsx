@@ -33,7 +33,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Carrot Group Scale</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Canvas Espadrille Flats</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -65,7 +65,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Red Hot Tomato</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Brown Leather Boots</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -102,7 +102,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Orange Fresh Juice</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Western Cowboy Boots</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -138,7 +138,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Poltry Farm Meat</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Chic Slingback Pumps</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -178,7 +178,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Carrot Group Scale</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Winter Snow Boots</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -211,7 +211,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Red Hot Tomato</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Formal Dress Shoes</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -249,7 +249,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Orange Fresh Juice</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Waterproof Hiking Boots</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">
@@ -285,7 +285,7 @@ const FeaturedProducts = () => {
                         <i><BiSolidStarHalf /></i>
                         <i><AiOutlineStar /></i>
                       </div>
-                      <h4 className='font-semibold text-lg pl-5 py-1'>Poltry Farm Meat</h4>
+                      <h4 className='font-semibold text-lg pl-5 py-1'>Classic Wingtip Oxfords</h4>
                       <h3 className='font-bold text-2xl pl-5'>$32.00 <span>$46.00</span></h3>
                     </div>
                     <div className="featured-hoverIcons">

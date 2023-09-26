@@ -71,7 +71,7 @@ const Blog = () => {
 										</div>
 									</div>
 									<p className='font-normal text-md'></p>
-									<h4 className='font-bold text-2xl pr-6 pb-3'>Exploring the World: Adventures Blog</h4>
+									<h4 className='font-bold text-2xl pr-6 pb-3'>Elegant Leather Men's Formal Shoes</h4>
 									<hr className='pb-4' />
 									<div className='flex pb-5 justify-between blogCardTextRes'>
 										<div className='flex items-center'>
@@ -100,7 +100,7 @@ const Blog = () => {
 										</div>
 									</div>
 									<p className='font-normal text-md'></p>
-									<h4 className='font-bold text-2xl pr-6 pb-3'>Tech Trends: Stay Informed with Us</h4>
+									<h4 className='font-bold text-2xl pr-6 pb-3'>Timeless Men's Leather Oxford Shoes</h4>
 									<hr className='pb-4' />
 									<div className='flex pb-5 justify-between blogCardTextRes'>
 										<div className='flex items-center'>
@@ -129,7 +129,7 @@ const Blog = () => {
 										</div>
 									</div>
 									<p className='font-normal text-md'></p>
-									<h4 className='font-bold text-2xl pr-6 pb-3'>Gourmet Cooking: Recipes and Culinary Delights</h4>
+									<h4 className='font-bold text-2xl pr-6 pb-3'>Sophisticated Leather Dress Footwear</h4>
 									<hr className='pb-4' />
 									<div className='flex pb-5 justify-between blogCardTextRes'>
 										<div className='flex items-center'>
@@ -145,7 +145,7 @@ const Blog = () => {
 						</div>
 						<div className='blog-card my-8'>
 							<div className='blog-card--inner'>
-								<img src="/assets/blog-1.jpg" alt="blog" />
+								<img src="/assets/blog-2.jpg" alt="blog" />
 								<div className='text-start px-10'>
 									<div className='flex py-5 blogCardTextRes'>
 										<div className='flex items-center'>
@@ -158,7 +158,7 @@ const Blog = () => {
 										</div>
 									</div>
 									<p className='font-normal text-md'></p>
-									<h4 className='font-bold text-2xl pr-6 pb-3'>Fashion and Beauty: Style Secrets Unveiled</h4>
+									<h4 className='font-bold text-2xl pr-6 pb-3'>Traditional Leather Men's Derby Shoes</h4>
 									<hr className='pb-4' />
 									<div className='flex pb-5 justify-between blogCardTextRes'>
 										<div className='flex items-center'>

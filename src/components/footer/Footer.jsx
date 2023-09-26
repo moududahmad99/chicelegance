@@ -47,7 +47,7 @@ const Footer = () => {
 											<img src="/assets/icon-img-1.png" alt="icon" />
 										</picture>
 										<div>
-											<h3 className='pl-5 font-bold text-xl pb-2'>Curated Projducts</h3>
+											<h3 className='pl-5 font-bold text-xl pb-2'>Leather Oxfords</h3>
 											<p className='pl-5'>Provide Curated Products for all product over $100</p>
 										</div>
 									</div>
@@ -58,7 +58,7 @@ const Footer = () => {
 											<img src="/assets/icon-img-2.png" alt="icon" />
 										</picture>
 										<div>
-											<h3 className='pl-5 font-bold text-xl pb-2'>Handmade</h3>
+											<h3 className='pl-5 font-bold text-xl pb-2'>Classic Loafers</h3>
 											<p className='pl-5'>We ensure the product quality that is our main goal</p>
 										</div>
 									</div>
@@ -72,7 +72,7 @@ const Footer = () => {
 											<img src="/assets/icon-img-3.png" alt="icon" />
 										</picture>
 										<div>
-											<h3 className='pl-5 font-bold text-xl pb-2'>Natural Food</h3>
+											<h3 className='pl-5 font-bold text-xl pb-2'>Sleek Brogues</h3>
 											<p className='pl-5'>Return product within 3 days for any product you buy</p>
 										</div>
 									</div>
@@ -83,7 +83,7 @@ const Footer = () => {
 											<img src="/assets/icon-img-4.png" alt="icon" />
 										</picture>
 										<div>
-											<h3 className='pl-5 font-bold text-xl pb-2'>Free Home Delivery</h3>
+											<h3 className='pl-5 font-bold text-xl pb-2'>Modern Moccasins</h3>
 											<p className='pl-5'>We ensure the product quality that you can trust easily</p>
 										</div>
 									</div>
@@ -99,7 +99,7 @@ const Footer = () => {
 									<picture>
 										<img src="/assets/logo.png" alt="footer-logo" />
 									</picture>
-									<p className='py-4 pr-4'>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.</p>
+									<p className='py-4 pr-2'>Explore our curated collection of elegant and chic shoes to elevate your style.</p>
 									<div className='flex items-center my-4'>
 										<i className='pr-2'><TfiLocationPin /></i>
 										<p>Brooklyn, New York, United States</p>
