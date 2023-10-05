@@ -8,7 +8,7 @@ import Products from '../../components/products/Products'
 import Countdown from '../../components/countdown/Countdown'
 import FeaturedProducts from '../../components/featuredProducts/FeaturedProducts'
 import YTVideo from '../../components/ytVideo/YTVideo'
-import Testimonials from '../../components/testimonials/Testimonials'
+ import Testimonials from '../../components/testimonials/Testimonials'
 import Blog from '../../components/blog/Blog'
 import Footer from '../../components/footer/Footer'
 

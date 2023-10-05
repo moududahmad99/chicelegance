@@ -1,28 +1,14 @@
 /* Product Tabs */
-.products-tabs Tab {
+#products .products-tabs  {
   position: relative;
 }
 
-.products-tabs {
+#products .products-tabs {
   font-family: "Rajdhani";
 }
 
 #products .products-inner {
-  justify-content: center !important;
-}
-
-.products-tabs span {
-  height: 25px;
-  width: 1px;
-  position: absolute;
-  right: -60px;
-  top: 20%;
-  background: #9fa09d;
-  transform: translateX(-50%);
-  -webkit-transform: translateX(-50%);
-  -moz-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-  -o-transform: translateX(-50%);
+  justify-content: space-evenly !important;
 }
 
 /* Product Card */
