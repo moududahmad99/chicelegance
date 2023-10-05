@@ -54,7 +54,7 @@ const FeaturedProducts = () => {
         <div className="Grid">
           <div id="featProducts">
             <h1 className='text-5xl text-center font-bold mt-10 pt-14 mb-8'>Featured Products</h1>
-              <div className="featProdResInner flex justify-evenly">
+              <div className="featProdResInner flex justify-evenly grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-4">
             {featuredProduct.map((product) => (
                 <div className="featProducts-card mx-4 my-5 pb-5">
                   <picture>

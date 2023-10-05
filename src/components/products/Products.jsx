@@ -35,7 +35,7 @@ const products = [
     originalPrice: '$46.00',
   },
   {
-    imageSrc: '/assets/FeaturedProducts-2.png',
+    imageSrc: '/assets/FeaturedProducts-1.png',
     discount: '-45%',
     rating: [1, 2, 3, 4, 5],
     title: 'Black Leather Loafers',
@@ -52,19 +52,16 @@ const Products = () => {
       <div id="products">
         <div className="Grid">
           <h1 className='text-5xl text-center font-bold py-4 mb-4'>Our Products</h1>
-          <div className="products-tabs flex flex-wrap my-10 justify-evenly items-center">
-            <h3 className='font-semibold uppercase'>Footwear Store</h3>
-            <span></span>
-            <h3 className='font-semibold uppercase'>Shoe Boutique</h3>
-            <span></span>
-            <h3 className='font-semibold uppercase'>Style Gallery</h3>
-            <span></span>
-            <h3 className='font-semibold uppercase'>Brand Outlet</h3>
-            <span></span>
-            <h3 className='font-semibold uppercase'>Sneaker Central</h3>
+          <div className="products-tabs flex flex-wrap my-10 px-8 justify-between items-center">
+            <h3 className='font-semibold uppercase cursor-pointer'>Footwear Store</h3>
+            <h3 className='font-semibold uppercase cursor-pointer'>Shoe Boutique</h3>
+            <h3 className='font-semibold uppercase cursor-pointer'>Style Gallery</h3>
+            <h3 className='font-semibold uppercase cursor-pointer'>Brand Outlet</h3>
+            <h3 className='font-semibold uppercase cursor-pointer'>Shop Outlet</h3>
+            <h3 className='font-semibold uppercase cursor-pointer'>Sneaker Central</h3>
           </div>
-          <div className="product-card  mb-14">
-            <div className='products-inner flex'>
+          <div className="product-card  mb-14 ">
+            <div className='products-inner flex grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-4'>
               {products.map((product) => (
                 <div className="productsResponsive flex">
                   <div className="prodsResInner flex">
